@@ -12,8 +12,8 @@ Welcome to my GitHub! Here, you’ll find projects that explore the depths of **
 
 ### 🌟 Noteworthy Projects:
 1. **[SalsaNext](https://github.com/TiagoCortinhal/SalsaNext):** Crafting a model for ultra-fast, uncertainty-aware data synthesis across diverse input types.
-2. **[RGB Depth Generation](https://github.com/TiagoCortinhal/RGB-Depth-Generation):** Bridging 2D-3D worlds by creating frameworks that bring together visual depth and context.
-3. **[Pseudo Point Cloud Generation](https://github.com/TiagoCortinhal/Pseudo-Point-Cloud-Generation):** Pushing boundaries in 3D modeling with pure data-driven synthesis.
+2. **[RGB Depth Generation](https://github.com/TiagoCortinhal/TITAN-Next):** Bridging 2D-3D worlds by creating frameworks that bring together visual depth and context.
+3. **[Pseudo Point Cloud Generation](https://ieeexplore.ieee.org/document/10588782):** Pushing boundaries in 3D modeling with pure data-driven synthesis.
 
 ### 🎧 Featured Appearances:
 * 🎙️ **Podcast Episode**: [Exploring High-dimensional Spaces and More](https://open.spotify.com/episode/1Do7wjTOA88IUy33QlcruQ?si=d530faadf33c4b35) – A deep dive into my research and what drives my passion!
