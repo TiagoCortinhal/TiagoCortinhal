@@ -1,6 +1,6 @@
 # Hi, I'm Tiago Cortinhal
 
-Researcher working at the intersection of multi-modal data fusion.
+Researcher working on Computer Vision.
 
 ## Research
 
