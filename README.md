@@ -1,3 +1,5 @@
+[![TiagoCortinhal on GitRanks: profile](https://gitranks.com/badge/user/TiagoCortinhal/profile-card.svg)](https://gitranks.com/profile/TiagoCortinhal)
+
 # Hi, I'm Tiago Cortinhal
 
 Researcher working on Computer Vision.
